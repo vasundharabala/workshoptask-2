@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    text-align: center;
+}
+button {
+    width: 90px;
+    height: 60px;
+    font-size: 30px;
+    background-color: green;
+    color: honeydew;
+}
+button:hover {
+    background-color: greenyellow;
+    color: grey;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+p {
+    font-size: x-large;
+}
+
+input {
+    font-size: large;
+}
